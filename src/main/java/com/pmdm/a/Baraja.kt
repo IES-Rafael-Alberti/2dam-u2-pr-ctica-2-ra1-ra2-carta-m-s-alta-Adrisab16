@@ -1,4 +1,4 @@
-package com.pmdm.actividad06pmdm
+
 
 /**
  * Clase baraja, donde podremos crear una baraja nueva, podremos barajar las cartas y mostrarlas:
